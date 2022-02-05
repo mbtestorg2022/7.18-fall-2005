@@ -74,8 +74,57 @@ Supporting documents will include an "Instructions to Authors" sheet from a sele
 Grades
 ------
 
-| ACTIVITIES | PERCENTAGES | NOTES |
-| --- | --- | --- |
-| Class Participation | 20% | Three presentations and participation in the class discussion. |
-| Writing Assignments | 10% | All writing assignments, including paper summaries. |
-| Research Report | 70% | 35% of the grade will be based on the faculty mentor's evaluation of lab performance, research progress, and quality of the written report; 35% will be based on the course instructor's evaluation of the final 15-page research report. The research report is due by the end of the semester.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+Three presentations and participation in the class discussion.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+All writing assignments, including paper summaries.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research Report
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+{{< tdopen >}}
+35% of the grade will be based on the faculty mentor's evaluation of lab performance, research progress, and quality of the written report; 35% will be based on the course instructor's evaluation of the final 15-page research report. The research report is due by the end of the semester.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
