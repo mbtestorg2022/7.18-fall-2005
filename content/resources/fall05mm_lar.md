@@ -5,6 +5,7 @@ description: This resource contains oocyte transfers and embryo injections, prep
   vitro substrates.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-18-topics-in-experimental-biology-fall-2005/76f8381ac77dfa2acb16a8e737b4909a_fall05mm_lar.pdf
 file_type: application/pdf
+parent_uid: 0bbfb6c6-cc7c-566c-ce71-2ff1040a7d6e
 resourcetype: Document
 title: fall05mm_lar.pdf
 uid: 76f8381a-c77d-fa2a-cb16-a8e737b4909a
